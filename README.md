@@ -1,6 +1,12 @@
 # Exercise-12
 Bookshelf
 
+/*
+*Jonathan Saldivar
+*ITSE 1302-011
+*Exercise 12
+*Bookshelf to store Books
+*/
 public class BookShelf {
    public static void main(String [] strArgs){
    
